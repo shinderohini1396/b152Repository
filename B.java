@@ -2,6 +2,6 @@ public Class Hello
 {
 	public static void main(String args[])
 	{
-	system.out.println("A CJC");
+	system.out.println("B java");
 	}
 }
